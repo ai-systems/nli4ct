@@ -19,5 +19,5 @@ For additional information about the task, please consult the official [website]
 
 ## News
 
-* Sample data is now available in `sample_data.zip`!
+* Training data is now available in `Training_data.zip`!
 * Additional details and instructions coming soon!
