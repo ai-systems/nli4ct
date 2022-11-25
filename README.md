@@ -5,7 +5,6 @@ This is the github repository hosting data and code for Task 7: Multi-evidence N
 For additional information about the task, please consult the official [website](https://sites.google.com/view/nli4ct/home).
 
 ## Important Dates
-
 * **Sample data ready 15 July 2022**
 * **Training data ready 1 September 2022**
 * Evaluation data ready 1 December 2022 (internal deadline; not for public release)
@@ -20,4 +19,5 @@ For additional information about the task, please consult the official [website]
 ## News
 
 * Training data is now available in `Training_data.zip`!
+* Sample submission files available
 * Additional details and instructions coming soon!
