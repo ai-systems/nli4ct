@@ -1,0 +1,76 @@
+{
+    "5bc844fc-e852-4270-bfaf-36ea9eface3d": {
+        "Prediction": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "86b7cb3d-6186-4a04-9aa6-b174ab764eed": {
+        "Prediction": "Contradiction",
+        "Primary_evidence_index": [
+            18,
+            22,
+            23,
+            24
+        ]
+    },
+    "dbed5471-c2fc-45b5-b26f-430c9fa37a37": {
+        "Prediction": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "20c35c89-8d23-4be3-b603-ac0ee0f3b4de": {
+        "Prediction": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            3,
+            4,
+            5
+        ]
+    },
+    "f17cb242-419d-4f5d-bfa4-41494ed5ac0e": {
+        "Prediction": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    }
+}
