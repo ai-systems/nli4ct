@@ -18,7 +18,7 @@ For additional information about the task, please consult the official [website]
 
 ## News
 
-* Training data is now available in `Training_data.zip`!
+* Training data is now available in `training_data.zip`!
 * Sample submission files available
 * Evaluation files available
 * Additional details and instructions coming soon!
