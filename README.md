@@ -2,7 +2,7 @@
 
 This is the github repository hosting data and code for Task 7: Multi-evidence Natural Language Inference for Clinical Trial Data (NLI4CT) at [Semeval 2023](https://semeval.github.io/SemEval2023/). 
 
-For additional information about the task, please consult the official [website](https://sites.google.com/view/nli4ct/home).
+For additional information about the task, please consult the official [website](https://sites.google.com/view/nli4ct/home), or [Codalab](https://codalab.lisn.upsaclay.fr/competitions/8937).
 
 ## Important Dates
 * **Sample data ready 15 July 2022**
