@@ -7,7 +7,7 @@ For additional information about the task, please consult the official [website]
 ## Important Dates
 * **Sample data ready 15 July 2022**
 * **Training data ready 1 September 2022**
-* Evaluation data ready 1 December 2022 (internal deadline; not for public release)
+* **Evaluation data ready 1 December 2022 (internal deadline; not for public release)
 * Evaluation start 10 January 2023
 * Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date)
 * System paper submission due February 2023
